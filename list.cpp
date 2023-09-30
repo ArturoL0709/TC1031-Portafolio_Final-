@@ -1,9 +1,13 @@
 // =================================================================
 //
 // Archivo: list.cpp
-// Autor:
-// Fecha:
-// 
+// Autor:Arturo Lopez Garcia
+// Fecha:29/092023
+// Complejidad: Búsqueda e inserción en posición específica: O(n)
+//Búsqueda de elemento: O(n)
+//Eliminación en posición específica: O(n)
+//Inserción y eliminación al principio: O(1)
+//Inserción y eliminación al final: O(n)
 // =================================================================
 #ifndef LIST_H
 #define LIST_H
